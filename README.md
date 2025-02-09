@@ -1,1 +1,3 @@
-# T334_M35CD_Renato_Severo
+# Model avaliação de desempenho
+
+## Repositório criado para reforçar os estudos da disciplina
